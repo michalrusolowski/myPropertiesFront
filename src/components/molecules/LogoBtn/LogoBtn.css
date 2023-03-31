@@ -1,0 +1,8 @@
+.LogoBtnWrapper {
+    height: 55px;
+    width: 16vw;
+    min-width: 300px;
+    padding-left: 5px;
+    background-color: #353A5F;
+    color: #C96303;
+}

@@ -1,0 +1,13 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: calc(100vh - 55px);
+    width: 16vw;
+    min-width: 300px;
+    padding-left: 5px;
+    background-color: #353A5F;
+    color: #FFE998;
+}
+
+
